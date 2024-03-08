@@ -26,8 +26,11 @@ The objective of this project is to analyze the airline data to understand reven
   ●	Calculation of occupancy rates to assess the utilization of available seats.
   
   ●	Exploration of factors impacting revenue generation and profitability.
+  
  ![image](https://github.com/Sreshta05/Airline-Analysis/assets/76899515/c28cd22f-7bcd-4074-83c2-201d9ac7bf8f)
+ 
  ![image](https://github.com/Sreshta05/Airline-Analysis/assets/76899515/9524c808-b6fa-4d1b-ba63-87abf27dd491)
+ 
  ![image](https://github.com/Sreshta05/Airline-Analysis/assets/76899515/807eefee-3bf2-4f28-9bf4-89f959b598fc)
 
 
