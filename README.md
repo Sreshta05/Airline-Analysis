@@ -35,6 +35,8 @@ The objective of this project is to analyze the airline data to understand reven
 
 
 
+Database from: https://www.kaggle.com/datasets/datalearn/airlines-db?resource=download
+
  
 ## Conclusion
 In conclusion, this Python SQLite project provides valuable insights for airlines to optimize their operations and increase profitability. By analyzing revenue data, booking patterns, flight occupancy rates, and pricing dynamics, airlines can make informed decisions to maximize revenue while ensuring customer satisfaction and safety. Leveraging data-driven insights is essential for airlines to thrive in a competitive industry and achieve long-term success.
