@@ -17,15 +17,15 @@ The objective of this project is to analyze the airline data to understand reven
 
  Data Analysis and Visualization: The project involves performing data analysis and visualization to gain insights into different aspects of airline operations:
  
-  ●	Analysis of ticket sales over time to understand booking trends.
+	  ●	Analysis of ticket sales over time to understand booking trends.
   
-  ●	Analysis of total revenue earned over time to track financial performance.
+	  ●	Analysis of total revenue earned over time to track financial performance.
   
-  ●	Calculation of class-wise average flight prices to understand pricing dynamics.
+	  ●	Calculation of class-wise average flight prices to understand pricing dynamics.
   
-  ●	Calculation of occupancy rates to assess the utilization of available seats.
+	  ●	Calculation of occupancy rates to assess the utilization of available seats.
   
-  ●	Exploration of factors impacting revenue generation and profitability.
+	  ●	Exploration of factors impacting revenue generation and profitability.
   
  ![image](https://github.com/Sreshta05/Airline-Analysis/assets/76899515/c28cd22f-7bcd-4074-83c2-201d9ac7bf8f)
  
