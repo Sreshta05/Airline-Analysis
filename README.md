@@ -12,12 +12,19 @@ The objective of this project is to analyze the airline data to understand reven
 ## Project Workflow
 	
  Data Retrieval: The project begins by connecting to the SQLite database and retrieving tables present in the database.
+ 
  Data Exploration: Various tables such as aircrafts_data, airports_data, boarding_passes, bookings, flights, seats, ticket_flights, and tickets are queried to explore the dataset's structure and contents.
+
  Data Analysis and Visualization: The project involves performing data analysis and visualization to gain insights into different aspects of airline operations:
+ 
   ●	Analysis of ticket sales over time to understand booking trends.
+  
   ●	Analysis of total revenue earned over time to track financial performance.
+  
   ●	Calculation of class-wise average flight prices to understand pricing dynamics.
+  
   ●	Calculation of occupancy rates to assess the utilization of available seats.
+  
   ●	Exploration of factors impacting revenue generation and profitability.
  ![image](https://github.com/Sreshta05/Airline-Analysis/assets/76899515/c28cd22f-7bcd-4074-83c2-201d9ac7bf8f)
  ![image](https://github.com/Sreshta05/Airline-Analysis/assets/76899515/9524c808-b6fa-4d1b-ba63-87abf27dd491)
